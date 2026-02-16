@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article below."
+preferred-citation:
+  type: article
+  title: "Instance Segmentation in Autonomous Log Grasping Using EfficientViT-SAM MP-Former"
+  authors:
+    - family-names: "Mandal"
+      given-names: "Sayan"
+      orcid: "https://orcid.org/0000-0003-3637-6029"
+    - family-names: "Ainetter"
+      given-names: "Stefan"
+    - family-names: "Fraundorfer"
+      given-names: "Friedrich"
+      orcid: "https://orcid.org/0000-0002-5805-8892"
+  journal: "Robotics"
+  year: 2026
+  volume: 15
+  issue: 2
+  article-number: 44
+  doi: "10.3390/robotics15020044"
+  url: "https://www.mdpi.com/2218-6581/15/2/44"
