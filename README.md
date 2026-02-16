@@ -1,4 +1,4 @@
-# Instance Segmentation in Autonomous Log Grasping Using EfficientViT-SAM MP-Former (MDPI Robotics)
+# Instance Segmentation in Autonomous Log Grasping Using EfficientViT-SAM MP-Former
 Sayan Mandal, Stefan Ainetter, Friedrich Fraundorfer
 
 [[`Paper`](https://doi.org/10.3390/robotics15020044)] [[`BibTeX`](#CitingThisPaper)]
