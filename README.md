@@ -5,6 +5,11 @@ Sayan Mandal, Stefan Ainetter, Friedrich Fraundorfer
 
 🚧 code and weights to be released soon!
 
+## License
+
+This repository is distributed under **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+It includes/adapts third-party components under additional licenses, including **Apache-2.0** and **MIT**. All third-party attributions and notices remain with their respective authors and rightsholders. Where license terms differ, users must comply with the obligations of each component; for this combined repository, reuse should be treated as **NonCommercial** unless separately permitted by the relevant rightsholders.
+
 ## <a name="CitingThisPaper"></a>Citing This Paper
 
 ```bash
